@@ -3836,3 +3836,507 @@
 {"_e":"metro:client_log","_t":1789456492520,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/orders/8fae66f0-7931-421a-9cc3-20b7cb206806/\"}"]}
 {"_e":"metro:client_log","_t":1789456492580,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/orders/8fae66f0-7931-421a-9cc3-20b7cb206806/\"}"]}
 {"_e":"metro:server_log","_t":1789456878518,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","22087RA4DI - 13 - API 33","60"]}
+{"_e":"root:init","_t":1789500251934,"format":"v0-jsonl","version":"57.0.16"}
+{"_e":"env:mode","_t":1789500251934,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1789500251935,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1789500252273,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../../../app","serverComponents":false,"serverActions":false,"serverRendering":true,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1789500252860,"serverRoot":"../../..","projectRoot":"../../..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":true,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1789500253033,"plugins":[]}
+{"_e":"metro:instantiate","_t":1789500253859,"atlas":false,"workers":6,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1789500278964,"id":"2","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789500278964,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789500278970,"id":"2","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789500279444,"id":"2","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1789500279590,"id":"2","progress":0.18367346938775508,"total":14,"current":6}
+{"_e":"metro:bundling:progress","_t":1789500279649,"id":"2","progress":0.25,"total":14,"current":7}
+{"_e":"metro:bundling:progress","_t":1789500279749,"id":"2","progress":0.25,"total":35,"current":9}
+{"_e":"metro:bundling:progress","_t":1789500279850,"id":"2","progress":0.25,"total":45,"current":14}
+{"_e":"metro:bundling:progress","_t":1789500279953,"id":"2","progress":0.25,"total":81,"current":18}
+{"_e":"metro:bundling:progress","_t":1789500280196,"id":"2","progress":0.25,"total":81,"current":19}
+{"_e":"metro:bundling:progress","_t":1789500280298,"id":"2","progress":0.25,"total":82,"current":20}
+{"_e":"metro:bundling:progress","_t":1789500280433,"id":"2","progress":0.25,"total":82,"current":21}
+{"_e":"metro:bundling:progress","_t":1789500280534,"id":"2","progress":0.25,"total":93,"current":25}
+{"_e":"metro:bundling:progress","_t":1789500280654,"id":"2","progress":0.25,"total":95,"current":27}
+{"_e":"metro:bundling:progress","_t":1789500280710,"id":"2","progress":0.25,"total":95,"current":28}
+{"_e":"metro:bundling:progress","_t":1789500280810,"id":"2","progress":0.25,"total":100,"current":33}
+{"_e":"metro:bundling:progress","_t":1789500280911,"id":"2","progress":0.25,"total":124,"current":46}
+{"_e":"metro:bundling:progress","_t":1789500281011,"id":"2","progress":0.25,"total":184,"current":64}
+{"_e":"metro:bundling:progress","_t":1789500281112,"id":"2","progress":0.25,"total":317,"current":78}
+{"_e":"metro:bundling:progress","_t":1789500281211,"id":"2","progress":0.25,"total":367,"current":102}
+{"_e":"metro:bundling:progress","_t":1789500281315,"id":"2","progress":0.25,"total":431,"current":122}
+{"_e":"metro:bundling:progress","_t":1789500281416,"id":"2","progress":0.25,"total":495,"current":158}
+{"_e":"metro:bundling:progress","_t":1789500281516,"id":"2","progress":0.25,"total":548,"current":188}
+{"_e":"metro:bundling:progress","_t":1789500281617,"id":"2","progress":0.25,"total":579,"current":207}
+{"_e":"metro:bundling:progress","_t":1789500281717,"id":"2","progress":0.25,"total":602,"current":223}
+{"_e":"metro:bundling:progress","_t":1789500281817,"id":"2","progress":0.25,"total":649,"current":265}
+{"_e":"metro:bundling:progress","_t":1789500281919,"id":"2","progress":0.25,"total":707,"current":322}
+{"_e":"metro:bundling:progress","_t":1789500282019,"id":"2","progress":0.25,"total":761,"current":340}
+{"_e":"metro:bundling:progress","_t":1789500282119,"id":"2","progress":0.25,"total":770,"current":352}
+{"_e":"metro:bundling:progress","_t":1789500282222,"id":"2","progress":0.25,"total":836,"current":395}
+{"_e":"metro:bundling:progress","_t":1789500282322,"id":"2","progress":0.2756555596363099,"total":859,"current":451}
+{"_e":"metro:bundling:progress","_t":1789500282423,"id":"2","progress":0.3213681542155789,"total":882,"current":500}
+{"_e":"metro:bundling:progress","_t":1789500282530,"id":"2","progress":0.33284023668639046,"total":910,"current":525}
+{"_e":"metro:bundling:progress","_t":1789500282631,"id":"2","progress":0.3393345272881515,"total":927,"current":540}
+{"_e":"metro:bundling:progress","_t":1789500282730,"id":"2","progress":0.3442265160901432,"total":963,"current":565}
+{"_e":"metro:bundling:progress","_t":1789500282830,"id":"2","progress":0.3597593180745848,"total":997,"current":598}
+{"_e":"metro:bundling:progress","_t":1789500282930,"id":"2","progress":0.3611603538005554,"total":1035,"current":622}
+{"_e":"metro:bundling:progress","_t":1789500283030,"id":"2","progress":0.37524244162920767,"total":1066,"current":653}
+{"_e":"metro:bundling:progress","_t":1789500283130,"id":"2","progress":0.3814878892733564,"total":1088,"current":672}
+{"_e":"metro:bundling:progress","_t":1789500283230,"id":"2","progress":0.3917663434386489,"total":1096,"current":686}
+{"_e":"metro:bundling:progress","_t":1789500283330,"id":"2","progress":0.40725305653877725,"total":1111,"current":709}
+{"_e":"metro:bundling:progress","_t":1789500283430,"id":"2","progress":0.40725305653877725,"total":1141,"current":726}
+{"_e":"metro:bundling:progress","_t":1789500283530,"id":"2","progress":0.40861425403553536,"total":1142,"current":730}
+{"_e":"metro:bundling:progress","_t":1789500283631,"id":"2","progress":0.4218184568927576,"total":1144,"current":743}
+{"_e":"metro:bundling:progress","_t":1789500283731,"id":"2","progress":0.42445504614194407,"total":1165,"current":759}
+{"_e":"metro:bundling:progress","_t":1789500283840,"id":"2","progress":0.43410028970593173,"total":1196,"current":788}
+{"_e":"metro:bundling:progress","_t":1789500283937,"id":"2","progress":0.43410028970593173,"total":1283,"current":843}
+{"_e":"metro:bundling:progress","_t":1789500284043,"id":"2","progress":0.45229998671153915,"total":1307,"current":879}
+{"_e":"metro:bundling:progress","_t":1789500284144,"id":"2","progress":0.4995356645044082,"total":1313,"current":928}
+{"_e":"metro:bundling:progress","_t":1789500284245,"id":"2","progress":0.5329220213436343,"total":1326,"current":968}
+{"_e":"metro:bundling:progress","_t":1789500284345,"id":"2","progress":0.5508595166129792,"total":1346,"current":999}
+{"_e":"metro:bundling:progress","_t":1789500284446,"id":"2","progress":0.5816157468904721,"total":1365,"current":1041}
+{"_e":"metro:bundling:progress","_t":1789500284547,"id":"2","progress":0.6312941769057999,"total":1392,"current":1106}
+{"_e":"metro:bundling:progress","_t":1789500284648,"id":"2","progress":0.6388697573948982,"total":1415,"current":1131}
+{"_e":"metro:bundling:progress","_t":1789500284748,"id":"2","progress":0.6478561298841018,"total":1430,"current":1151}
+{"_e":"metro:bundling:progress","_t":1789500284849,"id":"2","progress":0.6546280991735537,"total":1430,"current":1157}
+{"_e":"metro:bundling:progress","_t":1789500284948,"id":"2","progress":0.6684933470041801,"total":1442,"current":1179}
+{"_e":"metro:bundling:progress","_t":1789500285048,"id":"2","progress":0.6849770099240027,"total":1462,"current":1210}
+{"_e":"metro:bundling:progress","_t":1789500285148,"id":"2","progress":0.7090817038096889,"total":1488,"current":1253}
+{"_e":"metro:bundling:progress","_t":1789500285248,"id":"2","progress":0.7432025107845047,"total":1501,"current":1294}
+{"_e":"metro:bundling:progress","_t":1789500285349,"id":"2","progress":0.770237188365651,"total":1520,"current":1334}
+{"_e":"metro:bundling:progress","_t":1789500285449,"id":"2","progress":0.7903798447033518,"total":1541,"current":1370}
+{"_e":"metro:bundling:progress","_t":1789500285549,"id":"2","progress":0.8014071283569502,"total":1546,"current":1384}
+{"_e":"metro:bundling:progress","_t":1789500285649,"id":"2","progress":0.8235621199975232,"total":1546,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789500285749,"id":"2","progress":0.8289846351083523,"total":1564,"current":1424}
+{"_e":"metro:bundling:progress","_t":1789500285849,"id":"2","progress":0.8385359690677102,"total":1578,"current":1445}
+{"_e":"metro:bundling:progress","_t":1789500285949,"id":"2","progress":0.8385359690677102,"total":1626,"current":1464}
+{"_e":"metro:bundling:progress","_t":1789500286050,"id":"2","progress":0.8385359690677102,"total":1643,"current":1493}
+{"_e":"metro:bundling:progress","_t":1789500286151,"id":"2","progress":0.8385359690677102,"total":1658,"current":1516}
+{"_e":"metro:bundling:progress","_t":1789500286251,"id":"2","progress":0.8402777777777777,"total":1668,"current":1529}
+{"_e":"metro:bundling:progress","_t":1789500286351,"id":"2","progress":0.8402777777777777,"total":1696,"current":1551}
+{"_e":"metro:bundling:progress","_t":1789500286455,"id":"2","progress":0.8428722616403502,"total":1709,"current":1569}
+{"_e":"metro:bundling:progress","_t":1789500286556,"id":"2","progress":0.8428722616403502,"total":1774,"current":1599}
+{"_e":"metro:bundling:progress","_t":1789500286657,"id":"2","progress":0.8428722616403502,"total":1784,"current":1636}
+{"_e":"metro:bundling:progress","_t":1789500286756,"id":"2","progress":0.8610595799132362,"total":1790,"current":1661}
+{"_e":"metro:bundling:progress","_t":1789500286856,"id":"2","progress":0.8658338426678196,"total":1813,"current":1687}
+{"_e":"metro:bundling:progress","_t":1789500286998,"id":"2","progress":0.8827113835057896,"total":1819,"current":1709}
+{"_e":"metro:bundling:progress","_t":1789500287099,"id":"2","progress":0.897616154151606,"total":1826,"current":1730}
+{"_e":"metro:bundling:progress","_t":1789500287199,"id":"2","progress":0.9184027777777779,"total":1848,"current":1771}
+{"_e":"metro:bundling:progress","_t":1789500287300,"id":"2","progress":0.9393766256012189,"total":1884,"current":1826}
+{"_e":"metro:bundling:progress","_t":1789500287400,"id":"2","progress":0.963686576574107,"total":1910,"current":1875}
+{"_e":"metro:bundling:progress","_t":1789500287501,"id":"2","progress":0.998962386580882,"total":1927,"current":1926}
+{"_e":"metro:bundling:progress","_t":1789500287601,"id":"2","progress":0.999,"total":1927,"current":1927}
+{"_e":"metro:bundling:done","_t":1789500287760,"id":"2","total":1927,"ms":8795.976291}
+{"_e":"metro:client_log","_t":1789500316740,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/\"}"]}
+{"_e":"metro:client_log","_t":1789500316908,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789500317510,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/\"}"]}
+{"_e":"metro:client_log","_t":1789500317522,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789500387621,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/\"}"]}
+{"_e":"metro:client_log","_t":1789500387720,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/\"}"]}
+{"_e":"metro:bundling:failed","_t":1789502466585,"id":null,"message":"Unable to resolve \"../components/CategoryGrid\" from \"app/(tabs)/index.tsx\"\n  4 | import { useSafeAreaInsets } from \"react-native-safe-area-context\";\n  5 |\n> 6 | import { CategoryGrid } from \"../components/CategoryGrid\";\n    |                               ^\n  7 | import { CustomerReviews } from \"../components/CustomerReviews\";\n  8 | import { FlashSaleBanner } from \"../components/FlashSaleBanner\";\n  9 | import { Header } from \"../components/Header\";","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../components/CategoryGrid\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../components/CategoryGrid","originModulePath":"app/(tabs)/index.tsx"}
+{"_e":"metro:bundling:failed","_t":1789502467140,"id":null,"message":"Unable to resolve \"../components/CategoryGrid\" from \"app/(tabs)/index.tsx\"\n  4 | import { useSafeAreaInsets } from \"react-native-safe-area-context\";\n  5 |\n> 6 | import { CategoryGrid } from \"../components/CategoryGrid\";\n    |                               ^\n  7 | import { CustomerReviews } from \"../components/CustomerReviews\";\n  8 | import { FlashSaleBanner } from \"../components/FlashSaleBanner\";\n  9 | import { Header } from \"../components/Header\";","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../components/CategoryGrid\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../components/CategoryGrid","originModulePath":"app/(tabs)/index.tsx"}
+{"_e":"metro:bundling:failed","_t":1789502500355,"id":null,"message":"Unable to resolve \"../assets/images/logo22.png\" from \"components/index/Header.tsx\"\n  2 | import { Image, Pressable, Text, View } from \"react-native\";\n  3 |\n> 4 | const logo = require(\"../assets/images/logo22.png\");\n    |                       ^\n  5 |\n  6 | interface HeaderProps {\n  7 |   topInset: number;","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/Header.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../assets/images/logo22.png\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/Header\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../assets/images/logo22.png","originModulePath":"components/index/Header.tsx"}
+{"_e":"metro:bundling:failed","_t":1789502500994,"id":null,"message":"Unable to resolve \"../assets/images/logo22.png\" from \"components/index/Header.tsx\"\n  2 | import { Image, Pressable, Text, View } from \"react-native\";\n  3 |\n> 4 | const logo = require(\"../assets/images/logo22.png\");\n    |                       ^\n  5 |\n  6 | interface HeaderProps {\n  7 |   topInset: number;","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/Header.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../assets/images/logo22.png\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/Header\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../assets/images/logo22.png","originModulePath":"components/index/Header.tsx"}
+{"_e":"metro:bundling:started","_t":1789502559540,"id":"7","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789502559541,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1789502559548,"id":"8","platform":"web","environment":"node","entry":"node_modules/expo/node_modules/@expo/cli/node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:progress","_t":1789502559548,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502559548,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502559554,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502559554,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502559658,"id":"7","progress":0.1111111111111111,"total":12,"current":4}
+{"_e":"metro:bundling:progress","_t":1789502559659,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502559766,"id":"7","progress":0.1890359168241966,"total":23,"current":10}
+{"_e":"metro:bundling:progress","_t":1789502559766,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502559878,"id":"7","progress":0.1890359168241966,"total":23,"current":10}
+{"_e":"metro:bundling:progress","_t":1789502559878,"id":"8","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1789502559979,"id":"7","progress":0.1890359168241966,"total":76,"current":20}
+{"_e":"metro:bundling:progress","_t":1789502559979,"id":"8","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1789502560080,"id":"7","progress":0.1890359168241966,"total":84,"current":21}
+{"_e":"metro:bundling:progress","_t":1789502560080,"id":"8","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1789502560124,"id":"7","progress":0.1890359168241966,"total":84,"current":22}
+{"_e":"metro:bundling:progress","_t":1789502560124,"id":"8","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1789502560225,"id":"7","progress":0.1890359168241966,"total":86,"current":23}
+{"_e":"metro:bundling:progress","_t":1789502560225,"id":"8","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1789502560327,"id":"7","progress":0.1890359168241966,"total":94,"current":25}
+{"_e":"metro:bundling:progress","_t":1789502560327,"id":"8","progress":0.09262759924385634,"total":23,"current":7}
+{"_e":"metro:bundling:progress","_t":1789502560430,"id":"7","progress":0.1890359168241966,"total":94,"current":25}
+{"_e":"metro:bundling:progress","_t":1789502560430,"id":"8","progress":0.12249999999999998,"total":40,"current":14}
+{"_e":"metro:bundling:progress","_t":1789502560531,"id":"7","progress":0.1890359168241966,"total":118,"current":31}
+{"_e":"metro:bundling:progress","_t":1789502560531,"id":"8","progress":0.12249999999999998,"total":40,"current":14}
+{"_e":"metro:bundling:progress","_t":1789502560632,"id":"7","progress":0.1890359168241966,"total":171,"current":37}
+{"_e":"metro:bundling:progress","_t":1789502560632,"id":"8","progress":0.12249999999999998,"total":40,"current":14}
+{"_e":"metro:bundling:progress","_t":1789502560731,"id":"7","progress":0.1890359168241966,"total":179,"current":49}
+{"_e":"metro:bundling:progress","_t":1789502560731,"id":"8","progress":0.12249999999999998,"total":40,"current":14}
+{"_e":"metro:bundling:progress","_t":1789502560832,"id":"7","progress":0.1890359168241966,"total":179,"current":49}
+{"_e":"metro:bundling:progress","_t":1789502560832,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502560933,"id":"7","progress":0.1890359168241966,"total":220,"current":62}
+{"_e":"metro:bundling:progress","_t":1789502560933,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561034,"id":"7","progress":0.1890359168241966,"total":310,"current":79}
+{"_e":"metro:bundling:progress","_t":1789502561034,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561138,"id":"7","progress":0.1890359168241966,"total":319,"current":85}
+{"_e":"metro:bundling:progress","_t":1789502561138,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561239,"id":"7","progress":0.1890359168241966,"total":321,"current":90}
+{"_e":"metro:bundling:progress","_t":1789502561239,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561344,"id":"7","progress":0.1890359168241966,"total":326,"current":97}
+{"_e":"metro:bundling:progress","_t":1789502561344,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561449,"id":"7","progress":0.1890359168241966,"total":337,"current":105}
+{"_e":"metro:bundling:progress","_t":1789502561449,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561550,"id":"7","progress":0.1890359168241966,"total":341,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502561550,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561650,"id":"7","progress":0.1890359168241966,"total":358,"current":149}
+{"_e":"metro:bundling:progress","_t":1789502561650,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561750,"id":"7","progress":0.21537804096334054,"total":362,"current":168}
+{"_e":"metro:bundling:progress","_t":1789502561750,"id":"8","progress":0.12249999999999998,"total":72,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502561852,"id":"7","progress":0.21537804096334054,"total":362,"current":168}
+{"_e":"metro:bundling:progress","_t":1789502561852,"id":"8","progress":0.12249999999999998,"total":173,"current":54}
+{"_e":"metro:bundling:progress","_t":1789502561952,"id":"7","progress":0.25,"total":388,"current":194}
+{"_e":"metro:bundling:progress","_t":1789502561952,"id":"8","progress":0.12249999999999998,"total":173,"current":54}
+{"_e":"metro:bundling:progress","_t":1789502562052,"id":"7","progress":0.25,"total":458,"current":227}
+{"_e":"metro:bundling:progress","_t":1789502562052,"id":"8","progress":0.12249999999999998,"total":173,"current":54}
+{"_e":"metro:bundling:progress","_t":1789502562152,"id":"7","progress":0.3088794378698225,"total":520,"current":289}
+{"_e":"metro:bundling:progress","_t":1789502562152,"id":"8","progress":0.12249999999999998,"total":173,"current":54}
+{"_e":"metro:bundling:progress","_t":1789502562252,"id":"7","progress":0.3088794378698225,"total":520,"current":289}
+{"_e":"metro:bundling:progress","_t":1789502562252,"id":"8","progress":0.1481237015235457,"total":304,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502562353,"id":"7","progress":0.3088794378698225,"total":632,"current":343}
+{"_e":"metro:bundling:progress","_t":1789502562353,"id":"8","progress":0.1481237015235457,"total":304,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502562453,"id":"7","progress":0.31825641589167936,"total":647,"current":365}
+{"_e":"metro:bundling:progress","_t":1789502562453,"id":"8","progress":0.1481237015235457,"total":304,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502562554,"id":"7","progress":0.32677433726887944,"total":670,"current":383}
+{"_e":"metro:bundling:progress","_t":1789502562554,"id":"8","progress":0.1481237015235457,"total":304,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502562654,"id":"7","progress":0.32677433726887944,"total":706,"current":401}
+{"_e":"metro:bundling:progress","_t":1789502562654,"id":"8","progress":0.1481237015235457,"total":304,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502562756,"id":"7","progress":0.32677433726887944,"total":719,"current":405}
+{"_e":"metro:bundling:progress","_t":1789502562756,"id":"8","progress":0.1481237015235457,"total":304,"current":117}
+{"_e":"metro:bundling:progress","_t":1789502562856,"id":"7","progress":0.32677433726887944,"total":719,"current":405}
+{"_e":"metro:bundling:progress","_t":1789502562856,"id":"8","progress":0.22784103530966443,"total":419,"current":200}
+{"_e":"metro:bundling:progress","_t":1789502562956,"id":"7","progress":0.33255906226456616,"total":789,"current":455}
+{"_e":"metro:bundling:progress","_t":1789502562957,"id":"8","progress":0.22784103530966443,"total":419,"current":200}
+{"_e":"metro:bundling:progress","_t":1789502563056,"id":"7","progress":0.3744709289374025,"total":804,"current":492}
+{"_e":"metro:bundling:progress","_t":1789502563056,"id":"8","progress":0.22784103530966443,"total":419,"current":200}
+{"_e":"metro:bundling:progress","_t":1789502563156,"id":"7","progress":0.3992999360156574,"total":815,"current":515}
+{"_e":"metro:bundling:progress","_t":1789502563156,"id":"8","progress":0.22784103530966443,"total":419,"current":200}
+{"_e":"metro:bundling:progress","_t":1789502563256,"id":"7","progress":0.3992999360156574,"total":815,"current":515}
+{"_e":"metro:bundling:progress","_t":1789502563257,"id":"8","progress":0.23374427976231132,"total":484,"current":234}
+{"_e":"metro:bundling:progress","_t":1789502563356,"id":"7","progress":0.4320563592216409,"total":855,"current":562}
+{"_e":"metro:bundling:progress","_t":1789502563356,"id":"8","progress":0.23374427976231132,"total":484,"current":234}
+{"_e":"metro:bundling:progress","_t":1789502563456,"id":"7","progress":0.45874749229323036,"total":877,"current":594}
+{"_e":"metro:bundling:progress","_t":1789502563456,"id":"8","progress":0.23374427976231132,"total":484,"current":234}
+{"_e":"metro:bundling:progress","_t":1789502563557,"id":"7","progress":0.45874749229323036,"total":877,"current":594}
+{"_e":"metro:bundling:progress","_t":1789502563557,"id":"8","progress":0.2508795067966803,"total":569,"current":285}
+{"_e":"metro:bundling:progress","_t":1789502563656,"id":"7","progress":0.45874749229323036,"total":877,"current":594}
+{"_e":"metro:bundling:progress","_t":1789502563656,"id":"8","progress":0.2675974151103681,"total":607,"current":314}
+{"_e":"metro:bundling:progress","_t":1789502563756,"id":"7","progress":0.45874749229323036,"total":877,"current":594}
+{"_e":"metro:bundling:progress","_t":1789502563756,"id":"8","progress":0.2857324489265928,"total":608,"current":325}
+{"_e":"metro:bundling:progress","_t":1789502563857,"id":"7","progress":0.4838008801202917,"total":923,"current":642}
+{"_e":"metro:bundling:progress","_t":1789502563857,"id":"8","progress":0.2857324489265928,"total":608,"current":325}
+{"_e":"metro:bundling:progress","_t":1789502563956,"id":"7","progress":0.5219516347979418,"total":926,"current":669}
+{"_e":"metro:bundling:progress","_t":1789502563956,"id":"8","progress":0.2857324489265928,"total":608,"current":325}
+{"_e":"metro:bundling:progress","_t":1789502564056,"id":"7","progress":0.5227001714363103,"total":953,"current":689}
+{"_e":"metro:bundling:progress","_t":1789502564056,"id":"8","progress":0.2857324489265928,"total":608,"current":325}
+{"_e":"metro:bundling:progress","_t":1789502564156,"id":"7","progress":0.5282364211068838,"total":959,"current":697}
+{"_e":"metro:bundling:progress","_t":1789502564156,"id":"8","progress":0.2857324489265928,"total":608,"current":325}
+{"_e":"metro:bundling:progress","_t":1789502564257,"id":"7","progress":0.534432356483773,"total":963,"current":704}
+{"_e":"metro:bundling:progress","_t":1789502564257,"id":"8","progress":0.2857324489265928,"total":608,"current":325}
+{"_e":"metro:bundling:progress","_t":1789502564357,"id":"7","progress":0.534432356483773,"total":963,"current":704}
+{"_e":"metro:bundling:progress","_t":1789502564357,"id":"8","progress":0.3467324764264352,"total":681,"current":401}
+{"_e":"metro:bundling:progress","_t":1789502564457,"id":"7","progress":0.534432356483773,"total":963,"current":704}
+{"_e":"metro:bundling:progress","_t":1789502564457,"id":"8","progress":0.35019977962786875,"total":681,"current":403}
+{"_e":"metro:bundling:progress","_t":1789502564557,"id":"7","progress":0.5438518634540249,"total":1017,"current":750}
+{"_e":"metro:bundling:progress","_t":1789502564558,"id":"8","progress":0.35019977962786875,"total":681,"current":403}
+{"_e":"metro:bundling:progress","_t":1789502564657,"id":"7","progress":0.5628659131469363,"total":1025,"current":769}
+{"_e":"metro:bundling:progress","_t":1789502564657,"id":"8","progress":0.35019977962786875,"total":681,"current":403}
+{"_e":"metro:bundling:progress","_t":1789502564757,"id":"7","progress":0.5808441238057904,"total":1051,"current":801}
+{"_e":"metro:bundling:progress","_t":1789502564757,"id":"8","progress":0.35019977962786875,"total":681,"current":403}
+{"_e":"metro:bundling:progress","_t":1789502564858,"id":"7","progress":0.5920528644830032,"total":1054,"current":811}
+{"_e":"metro:bundling:progress","_t":1789502564858,"id":"8","progress":0.35019977962786875,"total":681,"current":403}
+{"_e":"metro:bundling:progress","_t":1789502564959,"id":"7","progress":0.5920528644830032,"total":1054,"current":811}
+{"_e":"metro:bundling:progress","_t":1789502564959,"id":"8","progress":0.3665602295339905,"total":735,"current":445}
+{"_e":"metro:bundling:progress","_t":1789502565059,"id":"7","progress":0.60898331732029,"total":1070,"current":835}
+{"_e":"metro:bundling:progress","_t":1789502565059,"id":"8","progress":0.3665602295339905,"total":735,"current":445}
+{"_e":"metro:bundling:progress","_t":1789502565160,"id":"7","progress":0.6146326408178411,"total":1074,"current":842}
+{"_e":"metro:bundling:progress","_t":1789502565161,"id":"8","progress":0.3665602295339905,"total":735,"current":445}
+{"_e":"metro:bundling:progress","_t":1789502565261,"id":"7","progress":0.6165157750342936,"total":1080,"current":848}
+{"_e":"metro:bundling:progress","_t":1789502565261,"id":"8","progress":0.3665602295339905,"total":735,"current":445}
+{"_e":"metro:bundling:progress","_t":1789502565361,"id":"7","progress":0.6165157750342936,"total":1080,"current":848}
+{"_e":"metro:bundling:progress","_t":1789502565361,"id":"8","progress":0.3665602295339905,"total":875,"current":521}
+{"_e":"metro:bundling:progress","_t":1789502565461,"id":"7","progress":0.6165157750342936,"total":1080,"current":848}
+{"_e":"metro:bundling:progress","_t":1789502565461,"id":"8","progress":0.3709917355371901,"total":880,"current":536}
+{"_e":"metro:bundling:progress","_t":1789502565561,"id":"7","progress":0.6556831544658304,"total":1088,"current":881}
+{"_e":"metro:bundling:progress","_t":1789502565562,"id":"8","progress":0.3709917355371901,"total":880,"current":536}
+{"_e":"metro:bundling:progress","_t":1789502565661,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502565661,"id":"8","progress":0.3709917355371901,"total":880,"current":536}
+{"_e":"metro:bundling:progress","_t":1789502565762,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502565763,"id":"8","progress":0.37994087610857297,"total":915,"current":564}
+{"_e":"metro:bundling:progress","_t":1789502565866,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502565866,"id":"8","progress":0.38315559390553194,"total":916,"current":567}
+{"_e":"metro:bundling:progress","_t":1789502565966,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502565967,"id":"8","progress":0.400559376498118,"total":918,"current":581}
+{"_e":"metro:bundling:progress","_t":1789502566066,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502566067,"id":"8","progress":0.41316709085189746,"total":935,"current":601}
+{"_e":"metro:bundling:progress","_t":1789502566167,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502566167,"id":"8","progress":0.42291588054245977,"total":938,"current":610}
+{"_e":"metro:bundling:progress","_t":1789502566266,"id":"7","progress":0.6732412886259039,"total":1092,"current":896}
+{"_e":"metro:bundling:progress","_t":1789502566266,"id":"8","progress":0.4332286330169928,"total":945,"current":622}
+{"_e":"metro:bundling:progress","_t":1789502566368,"id":"7","progress":0.7342585679012347,"total":1125,"current":964}
+{"_e":"metro:bundling:progress","_t":1789502566368,"id":"8","progress":0.4332286330169928,"total":945,"current":622}
+{"_e":"metro:bundling:progress","_t":1789502566472,"id":"7","progress":0.7342585679012347,"total":1125,"current":964}
+{"_e":"metro:bundling:progress","_t":1789502566472,"id":"8","progress":0.45233315035809835,"total":962,"current":647}
+{"_e":"metro:bundling:progress","_t":1789502566574,"id":"7","progress":0.7342585679012347,"total":1125,"current":964}
+{"_e":"metro:bundling:progress","_t":1789502566574,"id":"8","progress":0.4579434303966528,"total":962,"current":651}
+{"_e":"metro:bundling:progress","_t":1789502566674,"id":"7","progress":0.7342585679012347,"total":1125,"current":964}
+{"_e":"metro:bundling:progress","_t":1789502566674,"id":"8","progress":0.4650049057533466,"total":962,"current":656}
+{"_e":"metro:bundling:progress","_t":1789502566779,"id":"7","progress":0.8027784060345249,"total":1144,"current":1025}
+{"_e":"metro:bundling:progress","_t":1789502566779,"id":"8","progress":0.4650049057533466,"total":962,"current":656}
+{"_e":"metro:bundling:progress","_t":1789502566880,"id":"7","progress":0.8034280190362879,"total":1148,"current":1029}
+{"_e":"metro:bundling:progress","_t":1789502566880,"id":"8","progress":0.4650049057533466,"total":962,"current":656}
+{"_e":"metro:bundling:progress","_t":1789502566982,"id":"7","progress":0.8034280190362879,"total":1148,"current":1029}
+{"_e":"metro:bundling:progress","_t":1789502566982,"id":"8","progress":0.4874932540753322,"total":1004,"current":701}
+{"_e":"metro:bundling:progress","_t":1789502567083,"id":"7","progress":0.8034280190362879,"total":1148,"current":1029}
+{"_e":"metro:bundling:progress","_t":1789502567083,"id":"8","progress":0.4874932540753322,"total":1050,"current":722}
+{"_e":"metro:bundling:progress","_t":1789502567183,"id":"7","progress":0.8034280190362879,"total":1148,"current":1029}
+{"_e":"metro:bundling:progress","_t":1789502567183,"id":"8","progress":0.4962331060445964,"total":1059,"current":746}
+{"_e":"metro:bundling:progress","_t":1789502567283,"id":"7","progress":0.8034280190362879,"total":1148,"current":1029}
+{"_e":"metro:bundling:progress","_t":1789502567283,"id":"8","progress":0.5124657888645306,"total":1084,"current":776}
+{"_e":"metro:bundling:progress","_t":1789502567383,"id":"7","progress":0.8131769124859621,"total":1191,"current":1074}
+{"_e":"metro:bundling:progress","_t":1789502567383,"id":"8","progress":0.5124657888645306,"total":1084,"current":776}
+{"_e":"metro:bundling:progress","_t":1789502567483,"id":"7","progress":0.8131769124859621,"total":1191,"current":1074}
+{"_e":"metro:bundling:progress","_t":1789502567483,"id":"8","progress":0.5885531349048775,"total":1121,"current":860}
+{"_e":"metro:bundling:progress","_t":1789502567585,"id":"7","progress":0.8274059497977223,"total":1206,"current":1097}
+{"_e":"metro:bundling:progress","_t":1789502567585,"id":"8","progress":0.5885531349048775,"total":1121,"current":860}
+{"_e":"metro:bundling:progress","_t":1789502567686,"id":"7","progress":0.8274059497977223,"total":1206,"current":1097}
+{"_e":"metro:bundling:progress","_t":1789502567686,"id":"8","progress":0.6609590070614753,"total":1139,"current":926}
+{"_e":"metro:bundling:progress","_t":1789502567791,"id":"7","progress":0.8415163033342176,"total":1234,"current":1132}
+{"_e":"metro:bundling:progress","_t":1789502567791,"id":"8","progress":0.6609590070614753,"total":1139,"current":926}
+{"_e":"metro:bundling:progress","_t":1789502567901,"id":"7","progress":0.8415163033342176,"total":1234,"current":1132}
+{"_e":"metro:bundling:progress","_t":1789502567901,"id":"8","progress":0.696599429788541,"total":1161,"current":969}
+{"_e":"metro:bundling:progress","_t":1789502568002,"id":"7","progress":0.8415163033342176,"total":1285,"current":1162}
+{"_e":"metro:bundling:progress","_t":1789502568003,"id":"8","progress":0.696599429788541,"total":1161,"current":969}
+{"_e":"metro:bundling:progress","_t":1789502568106,"id":"7","progress":0.8415163033342176,"total":1301,"current":1171}
+{"_e":"metro:bundling:progress","_t":1789502568106,"id":"8","progress":0.696599429788541,"total":1161,"current":969}
+{"_e":"metro:bundling:progress","_t":1789502568206,"id":"7","progress":0.8415163033342176,"total":1301,"current":1171}
+{"_e":"metro:bundling:progress","_t":1789502568206,"id":"8","progress":0.752661691664635,"total":1193,"current":1035}
+{"_e":"metro:bundling:progress","_t":1789502568336,"id":"7","progress":0.8415163033342176,"total":1301,"current":1171}
+{"_e":"metro:bundling:progress","_t":1789502568336,"id":"8","progress":0.7661706083917389,"total":1203,"current":1053}
+{"_e":"metro:bundling:progress","_t":1789502568436,"id":"7","progress":0.8415163033342176,"total":1319,"current":1190}
+{"_e":"metro:bundling:progress","_t":1789502568436,"id":"8","progress":0.7661706083917389,"total":1203,"current":1053}
+{"_e":"metro:bundling:progress","_t":1789502568539,"id":"7","progress":0.8415163033342176,"total":1319,"current":1190}
+{"_e":"metro:bundling:progress","_t":1789502568539,"id":"8","progress":0.7951178527093125,"total":1228,"current":1095}
+{"_e":"metro:bundling:progress","_t":1789502568639,"id":"7","progress":0.8415163033342176,"total":1319,"current":1190}
+{"_e":"metro:bundling:progress","_t":1789502568639,"id":"8","progress":0.8085372463480732,"total":1230,"current":1106}
+{"_e":"metro:bundling:progress","_t":1789502568740,"id":"7","progress":0.8415163033342176,"total":1351,"current":1236}
+{"_e":"metro:bundling:progress","_t":1789502568740,"id":"8","progress":0.8085372463480732,"total":1230,"current":1106}
+{"_e":"metro:bundling:progress","_t":1789502568840,"id":"7","progress":0.8534370513987605,"total":1352,"current":1249}
+{"_e":"metro:bundling:progress","_t":1789502568840,"id":"8","progress":0.8085372463480732,"total":1230,"current":1106}
+{"_e":"metro:bundling:progress","_t":1789502568941,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502568941,"id":"8","progress":0.8085372463480732,"total":1230,"current":1106}
+{"_e":"metro:bundling:progress","_t":1789502569042,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502569042,"id":"8","progress":0.8555880889854771,"total":1253,"current":1159}
+{"_e":"metro:bundling:progress","_t":1789502569143,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502569143,"id":"8","progress":0.8636151717167766,"total":1259,"current":1170}
+{"_e":"metro:bundling:progress","_t":1789502569244,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502569244,"id":"8","progress":0.886164139631958,"total":1262,"current":1188}
+{"_e":"metro:bundling:progress","_t":1789502569345,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502569345,"id":"8","progress":0.8932103037293349,"total":1275,"current":1205}
+{"_e":"metro:bundling:progress","_t":1789502569445,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502569445,"id":"8","progress":0.9056867520528964,"total":1283,"current":1221}
+{"_e":"metro:bundling:progress","_t":1789502569545,"id":"7","progress":0.8585478295932603,"total":1362,"current":1262}
+{"_e":"metro:bundling:progress","_t":1789502569545,"id":"8","progress":0.9056867520528964,"total":1319,"current":1254}
+{"_e":"metro:bundling:progress","_t":1789502569645,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502569646,"id":"8","progress":0.9056867520528964,"total":1319,"current":1254}
+{"_e":"metro:bundling:progress","_t":1789502569745,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502569745,"id":"8","progress":0.9056867520528964,"total":1371,"current":1298}
+{"_e":"metro:bundling:progress","_t":1789502569845,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502569845,"id":"8","progress":0.9104738705345179,"total":1397,"current":1333}
+{"_e":"metro:bundling:progress","_t":1789502569945,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502569945,"id":"8","progress":0.9203625740241386,"total":1427,"current":1369}
+{"_e":"metro:bundling:progress","_t":1789502570046,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502570046,"id":"8","progress":0.9264226525947579,"total":1467,"current":1412}
+{"_e":"metro:bundling:progress","_t":1789502570145,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502570145,"id":"8","progress":0.9264226525947579,"total":1515,"current":1446}
+{"_e":"metro:bundling:progress","_t":1789502570245,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502570245,"id":"8","progress":0.9549752811690299,"total":1537,"current":1502}
+{"_e":"metro:bundling:progress","_t":1789502570345,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502570345,"id":"8","progress":0.9780863885109892,"total":1543,"current":1526}
+{"_e":"metro:bundling:progress","_t":1789502570467,"id":"7","progress":0.9336457171261829,"total":1452,"current":1403}
+{"_e":"metro:bundling:progress","_t":1789502570467,"id":"8","progress":0.9987117553672016,"total":1552,"current":1551}
+{"_e":"metro:bundling:done","_t":1789502570509,"id":"7","total":1452,"ms":10969.18675}
+{"_e":"metro:bundling:progress","_t":1789502570509,"id":"8","progress":0.9987117553672016,"total":1552,"current":1551}
+{"_e":"metro:bundling:done","_t":1789502570542,"id":"8","total":1552,"ms":10993.279583}
+{"_e":"metro:bundling:started","_t":1789502571264,"id":"9","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789502571264,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502571264,"id":"9","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502571365,"id":"9","progress":0.17728531855955676,"total":19,"current":8}
+{"_e":"metro:bundling:progress","_t":1789502571472,"id":"9","progress":0.17728531855955676,"total":137,"current":24}
+{"_e":"metro:bundling:progress","_t":1789502571584,"id":"9","progress":0.17728531855955676,"total":142,"current":26}
+{"_e":"metro:bundling:progress","_t":1789502571698,"id":"9","progress":0.17728531855955676,"total":151,"current":30}
+{"_e":"metro:bundling:progress","_t":1789502571801,"id":"9","progress":0.17728531855955676,"total":167,"current":31}
+{"_e":"metro:bundling:progress","_t":1789502571903,"id":"9","progress":0.17728531855955676,"total":173,"current":34}
+{"_e":"metro:bundling:progress","_t":1789502572015,"id":"9","progress":0.17728531855955676,"total":175,"current":37}
+{"_e":"metro:bundling:progress","_t":1789502572141,"id":"9","progress":0.17728531855955676,"total":181,"current":41}
+{"_e":"metro:bundling:progress","_t":1789502572242,"id":"9","progress":0.17728531855955676,"total":200,"current":54}
+{"_e":"metro:bundling:progress","_t":1789502572344,"id":"9","progress":0.17728531855955676,"total":214,"current":66}
+{"_e":"metro:bundling:progress","_t":1789502572446,"id":"9","progress":0.17728531855955676,"total":244,"current":86}
+{"_e":"metro:bundling:progress","_t":1789502572548,"id":"9","progress":0.17728531855955676,"total":281,"current":109}
+{"_e":"metro:bundling:progress","_t":1789502572647,"id":"9","progress":0.17728531855955676,"total":315,"current":123}
+{"_e":"metro:bundling:progress","_t":1789502572747,"id":"9","progress":0.17728531855955676,"total":390,"current":142}
+{"_e":"metro:bundling:progress","_t":1789502572848,"id":"9","progress":0.17728531855955676,"total":405,"current":162}
+{"_e":"metro:bundling:progress","_t":1789502572948,"id":"9","progress":0.19481569560047562,"total":435,"current":192}
+{"_e":"metro:bundling:progress","_t":1789502573049,"id":"9","progress":0.2449136629572476,"total":489,"current":242}
+{"_e":"metro:bundling:progress","_t":1789502573149,"id":"9","progress":0.3200090574884118,"total":548,"current":310}
+{"_e":"metro:bundling:progress","_t":1789502573249,"id":"9","progress":0.3200090574884118,"total":635,"current":342}
+{"_e":"metro:bundling:progress","_t":1789502573351,"id":"9","progress":0.3200090574884118,"total":706,"current":377}
+{"_e":"metro:bundling:progress","_t":1789502573451,"id":"9","progress":0.3200090574884118,"total":725,"current":402}
+{"_e":"metro:bundling:progress","_t":1789502573554,"id":"9","progress":0.3330218932455345,"total":733,"current":423}
+{"_e":"metro:bundling:progress","_t":1789502573656,"id":"9","progress":0.3330218932455345,"total":751,"current":429}
+{"_e":"metro:bundling:progress","_t":1789502573756,"id":"9","progress":0.3330218932455345,"total":792,"current":447}
+{"_e":"metro:bundling:progress","_t":1789502573856,"id":"9","progress":0.35613943808532783,"total":806,"current":481}
+{"_e":"metro:bundling:progress","_t":1789502573959,"id":"9","progress":0.3877685196366515,"total":819,"current":510}
+{"_e":"metro:bundling:progress","_t":1789502574060,"id":"9","progress":0.3879263897702374,"total":867,"current":540}
+{"_e":"metro:bundling:progress","_t":1789502574164,"id":"9","progress":0.40690668422851856,"total":892,"current":569}
+{"_e":"metro:bundling:progress","_t":1789502574259,"id":"9","progress":0.4150601587607813,"total":922,"current":594}
+{"_e":"metro:bundling:progress","_t":1789502574359,"id":"9","progress":0.4463437775137847,"total":937,"current":626}
+{"_e":"metro:bundling:progress","_t":1789502574459,"id":"9","progress":0.4702448563703478,"total":961,"current":659}
+{"_e":"metro:bundling:progress","_t":1789502574559,"id":"9","progress":0.49792925706771857,"total":975,"current":688}
+{"_e":"metro:bundling:progress","_t":1789502574662,"id":"9","progress":0.5310933455138608,"total":977,"current":712}
+{"_e":"metro:bundling:progress","_t":1789502574760,"id":"9","progress":0.5609766425408157,"total":984,"current":737}
+{"_e":"metro:bundling:progress","_t":1789502574860,"id":"9","progress":0.5835048229219382,"total":991,"current":757}
+{"_e":"metro:bundling:progress","_t":1789502574960,"id":"9","progress":0.6120668927544921,"total":997,"current":780}
+{"_e":"metro:bundling:progress","_t":1789502575060,"id":"9","progress":0.621880344855258,"total":1017,"current":802}
+{"_e":"metro:bundling:progress","_t":1789502575160,"id":"9","progress":0.6341163974971801,"total":1031,"current":821}
+{"_e":"metro:bundling:progress","_t":1789502575260,"id":"9","progress":0.6400000000000001,"total":1040,"current":832}
+{"_e":"metro:bundling:progress","_t":1789502575360,"id":"9","progress":0.6400000000000001,"total":1050,"current":835}
+{"_e":"metro:bundling:progress","_t":1789502575460,"id":"9","progress":0.6400000000000001,"total":1075,"current":857}
+{"_e":"metro:bundling:progress","_t":1789502575561,"id":"9","progress":0.6510407102503688,"total":1077,"current":869}
+{"_e":"metro:bundling:progress","_t":1789502575661,"id":"9","progress":0.654900548696845,"total":1080,"current":874}
+{"_e":"metro:bundling:progress","_t":1789502575761,"id":"9","progress":0.6669444444444445,"total":1080,"current":882}
+{"_e":"metro:bundling:progress","_t":1789502575869,"id":"9","progress":0.7003127832839472,"total":1091,"current":913}
+{"_e":"metro:bundling:progress","_t":1789502575970,"id":"9","progress":0.7240462809917356,"total":1100,"current":936}
+{"_e":"metro:bundling:progress","_t":1789502576070,"id":"9","progress":0.7422008436416334,"total":1112,"current":958}
+{"_e":"metro:bundling:progress","_t":1789502576170,"id":"9","progress":0.7453801936653678,"total":1127,"current":973}
+{"_e":"metro:bundling:progress","_t":1789502576270,"id":"9","progress":0.7700331203131542,"total":1143,"current":1003}
+{"_e":"metro:bundling:progress","_t":1789502576375,"id":"9","progress":0.7752951738006321,"total":1180,"current":1039}
+{"_e":"metro:bundling:progress","_t":1789502576470,"id":"9","progress":0.7819697600894814,"total":1184,"current":1047}
+{"_e":"metro:bundling:progress","_t":1789502576570,"id":"9","progress":0.7976694907982913,"total":1207,"current":1078}
+{"_e":"metro:bundling:progress","_t":1789502576670,"id":"9","progress":0.811596273183034,"total":1241,"current":1118}
+{"_e":"metro:bundling:progress","_t":1789502576770,"id":"9","progress":0.8346649599999999,"total":1250,"current":1142}
+{"_e":"metro:bundling:progress","_t":1789502576871,"id":"9","progress":0.8347705221443728,"total":1274,"current":1164}
+{"_e":"metro:bundling:progress","_t":1789502576972,"id":"9","progress":0.8442598538023354,"total":1306,"current":1200}
+{"_e":"metro:bundling:progress","_t":1789502577073,"id":"9","progress":0.8442598538023354,"total":1347,"current":1228}
+{"_e":"metro:bundling:progress","_t":1789502577192,"id":"9","progress":0.8531240503769368,"total":1349,"current":1246}
+{"_e":"metro:bundling:progress","_t":1789502577292,"id":"9","progress":0.8735529070015806,"total":1377,"current":1287}
+{"_e":"metro:bundling:progress","_t":1789502577392,"id":"9","progress":0.8853403578982028,"total":1405,"current":1322}
+{"_e":"metro:bundling:progress","_t":1789502577492,"id":"9","progress":0.8954204283538894,"total":1433,"current":1356}
+{"_e":"metro:bundling:progress","_t":1789502577592,"id":"9","progress":0.9227481834829868,"total":1472,"current":1414}
+{"_e":"metro:bundling:progress","_t":1789502577692,"id":"9","progress":0.9482675923517169,"total":1488,"current":1449}
+{"_e":"metro:bundling:progress","_t":1789502577793,"id":"9","progress":0.9840002580603538,"total":1494,"current":1482}
+{"_e":"metro:bundling:progress","_t":1789502577899,"id":"9","progress":0.999,"total":1497,"current":1497}
+{"_e":"metro:bundling:done","_t":1789502578025,"id":"9","total":1497,"ms":6761.20975}
+{"_e":"metro:client_log","_t":1789502578312,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1789502578312,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1789502578421,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:client_log","_t":1789502579292,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:bundling:started","_t":1789502580408,"id":"e","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789502580408,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:started","_t":1789502580408,"id":"f","platform":"web","environment":"node","entry":"node_modules/expo/node_modules/@expo/cli/node_modules/@expo/router-server/node/render.js"}
+{"_e":"metro:bundling:progress","_t":1789502580408,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1789502580408,"id":"f","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789502580466,"id":"f","total":1,"ms":58.1305}
+{"_e":"metro:bundling:progress","_t":1789502580466,"id":"e","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789502580964,"id":"e","total":1,"ms":555.622917}
+{"_e":"metro:bundling:started","_t":1789502581000,"id":"g","platform":"web","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789502581000,"id":"g","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789502581056,"id":"g","total":1,"ms":56.706958}
+{"_e":"metro:client_log","_t":1789502581222,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1789502581258,"level":"warn","data":["Animated: `useNativeDriver` is not supported because the native animated module is missing. Falling back to JS-based animation. To resolve this, add `RCTAnimation` module to this app, or remove `useNativeDriver`. Make sure to run `bundle exec pod install` first. Read more about autolinking: https://github.com/react-native-community/cli/blob/master/docs/autolinking.md"]}
+{"_e":"metro:client_log","_t":1789502581268,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:bundling:failed","_t":1789502699984,"id":null,"message":"Unable to resolve \"../hooks/useProductSearch\" from \"components/index/SearchOverlay.tsx\"\n  10 |   View,\n  11 | } from \"react-native\";\n> 12 | import { useProductSearch } from \"../hooks/useProductSearch\"; // Adjust path to your hook\n     |                                   ^\n  13 | import { Product } from \"@/types/productSearchType\"; // Adjust path to your types\n  14 |\n  15 | interface SearchOverlayProps {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/SearchOverlay.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useProductSearch\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/SearchOverlay\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useProductSearch","originModulePath":"components/index/SearchOverlay.tsx"}
+{"_e":"metro:bundling:failed","_t":1789502700078,"id":null,"message":"Unable to resolve \"../hooks/useProductSearch\" from \"components/index/SearchOverlay.tsx\"\n  10 |   View,\n  11 | } from \"react-native\";\n> 12 | import { useProductSearch } from \"../hooks/useProductSearch\"; // Adjust path to your hook\n     |                                   ^\n  13 | import { Product } from \"@/types/productSearchType\"; // Adjust path to your types\n  14 |\n  15 | interface SearchOverlayProps {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/SearchOverlay.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useProductSearch\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/SearchOverlay\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useProductSearch","originModulePath":"components/index/SearchOverlay.tsx"}
+{"_e":"metro:bundling:failed","_t":1789502700226,"id":null,"message":"Unable to resolve \"../hooks/useProductSearch\" from \"components/index/SearchOverlay.tsx\"\n  10 |   View,\n  11 | } from \"react-native\";\n> 12 | import { useProductSearch } from \"../hooks/useProductSearch\"; // Adjust path to your hook\n     |                                   ^\n  13 | import { Product } from \"@/types/productSearchType\"; // Adjust path to your types\n  14 |\n  15 | interface SearchOverlayProps {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/SearchOverlay.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useProductSearch\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/SearchOverlay\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useProductSearch","originModulePath":"components/index/SearchOverlay.tsx"}
+{"_e":"metro:client_log","_t":1789502727005,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789502727455,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789502747772,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789502748105,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789502883745,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1accounts/user/profile/\"}"]}
+{"_e":"metro:client_log","_t":1789502883869,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"accounts/user/profile/\"}"]}
+{"_e":"metro:client_log","_t":1789502888471,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/\"}"]}
+{"_e":"metro:client_log","_t":1789502888489,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789502888603,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/\"}"]}
+{"_e":"metro:client_log","_t":1789502888954,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789502894207,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/orders/\"}"]}
+{"_e":"metro:client_log","_t":1789502894287,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/orders/\"}"]}
+{"_e":"metro:bundling:failed","_t":1789503026201,"id":null,"message":"Unable to resolve \"../hooks/useProductSearch\" from \"components/index/SearchOverlay.tsx\"\n  11 |   View,\n  12 | } from \"react-native\";\n> 13 | import { useProductSearch } from \"../hooks/useProductSearch\";\n     |                                   ^\n  14 | import { Product } from \"@/types/productSearchType\";\n  15 |\n  16 | interface SearchOverlayProps {","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/SearchOverlay.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useProductSearch\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/SearchOverlay\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useProductSearch","originModulePath":"components/index/SearchOverlay.tsx"}
+{"_e":"metro:client_log","_t":1789503046780,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503047002,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503049703,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/7bfa4efd-3245-4239-935a-de67ed041c8b/\"}"]}
+{"_e":"metro:client_log","_t":1789503049736,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/7bfa4efd-3245-4239-935a-de67ed041c8b/\"}"]}
+{"_e":"metro:client_log","_t":1789503057731,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/1d826b2e-56d9-44cd-842e-d5bc47d8506e/\"}"]}
+{"_e":"metro:client_log","_t":1789503057766,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/1d826b2e-56d9-44cd-842e-d5bc47d8506e/\"}"]}
+{"_e":"metro:client_log","_t":1789503186768,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503186918,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503187255,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503187315,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503189099,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503189150,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503190231,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503190259,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503193805,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503193862,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503195727,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503195787,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503196366,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503196422,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503201903,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503201948,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503202519,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503202571,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503203469,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503203505,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/search/\"}"]}
+{"_e":"metro:client_log","_t":1789503213317,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/7a75e231-b69c-4812-9710-4bee945ea9b1/\"}"]}
+{"_e":"metro:client_log","_t":1789503213319,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789503213387,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/7a75e231-b69c-4812-9710-4bee945ea9b1/\"}"]}
+{"_e":"metro:client_log","_t":1789503213661,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/cart/\"}"]}
+{"_e":"metro:bundling:failed","_t":1789503527155,"id":null,"message":"Unable to resolve \"../hooks/useBanners\" from \"components/index/HeroSlider.tsx\"\n  11 |   View,\n  12 | } from \"react-native\";\n> 13 | import { useBanners } from \"../hooks/useBanners\"; // Adjust path to your useBanners hook\n     |                             ^\n  14 | import { Banner } from \"@/types/bannerType\"; // Adjust path to your banner types\n  15 |\n  16 | const { width: SCREEN_WIDTH } = Dimensions.get(\"window\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/HeroSlider.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useBanners\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/HeroSlider\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useBanners","originModulePath":"components/index/HeroSlider.tsx"}
+{"_e":"metro:bundling:failed","_t":1789503527207,"id":null,"message":"Unable to resolve \"../hooks/useBanners\" from \"components/index/HeroSlider.tsx\"\n  11 |   View,\n  12 | } from \"react-native\";\n> 13 | import { useBanners } from \"../hooks/useBanners\"; // Adjust path to your useBanners hook\n     |                             ^\n  14 | import { Banner } from \"@/types/bannerType\"; // Adjust path to your banner types\n  15 |\n  16 | const { width: SCREEN_WIDTH } = Dimensions.get(\"window\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/HeroSlider.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useBanners\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/HeroSlider\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useBanners","originModulePath":"components/index/HeroSlider.tsx"}
+{"_e":"metro:client_log","_t":1789503537160,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503537361,"level":"error","data":["❌ API Error:","{\"data\": \"<!DOCTYPE html>\n<html lang=\\\"en\\\">\n<head>\n  <meta http-equiv=\\\"content-type\\\" content=\\\"text/html; charset=utf-8\\\">\n  <title>Page not found at /api/v1/api/v1/banner/</title>\n  <meta name=\\\"color-scheme\\\" content=\\\"light\\\" />\n  <meta name=\\\"robots\\\" content=\\\"NONE,NOARCHIVE\\\">\n  <style>\n    html * { padding:0; margin:0; }\n    body * { padding:10px 20px; }\n    body * * { padding:0; }\n    body { font-family: sans-serif; background:#eee; color:#000; }\n    body > header, body > main, body > footer { border-bottom:1px solid #ddd; }\n    h1 { font-weight:normal; margin-bottom:.4em; }\n    h1 small { font-size:60%; color:#666; font-weight:normal; }\n    table { border:none; border-collapse: collapse; width:100%; }\n    td, th { vertical-align:top; padding:2px 3px; }\n    th { width:12em; text-align:right; color:#666; padding-right:.5em; }\n    #info { background:#f6f6f6; }\n    #info ol { margin: 0.5em 4em; }\n    #info ol li { font-family: monospace; }\n    #summary { background: #ffc; }\n    #explanation { background:#eee; border-bottom: 0px none; }\n    pre.exception_value { font-family: sans-serif; color: #575757; font-size: 1.5em; margin: 10px 0 10px 0; }\n  </style>\n</head>\n<body>\n  <header id=\\\"summary\\\">\n    <h1>Page not found <small>(404)</small></h1>\n    \n    <table class=\\\"meta\\\">\n      <tr>\n        <th scope=\\\"row\\\">Request Method:</th>\n        <td>GET</td>\n      </tr>\n      <tr>\n        <th scope=\\\"row\\\">Request URL:</th>\n        <td>http://10.82.158.135:8000/api/v1/api/v1/banner/</td>\n      </tr>\n      \n    </table>\n  </header>\n\n  <main id=\\\"info\\\">\n    \n      <p>\n      Using the URLconf defined in <code>config.urls</code>,\n      Django tried these URL patterns, in this order:\n      </p>\n      <ol>\n        \n          <li>\n            \n              <code>\n                admin/\n                [namespace='admin']\n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/accounts/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/categories/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/products/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/brands/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/notifications/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/cart/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/address/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/orders/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/printing/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/food/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/banner/\n                \n              </code>\n            \n          </li>\n        \n      </ol>\n      <p>\n        \n          The current path, <code>api/v1/api/v1/banner/</code>,\n        \n        didn’t match any of these.\n      </p>\n    \n  </main>\n\n  <footer id=\\\"explanation\\\">\n    <p>\n      You’re seeing this error because you have <code>DEBUG = True</code> in\n      your Django settings file. Change that to <code>False</code>, and Django\n      will display a standard 404 page.\n    </p>\n  </footer>\n</body>\n</html>\n\", \"message\": \"Request failed with status code 404\", \"status\": 404, \"url\": \"/api/v1/banner/\"}","\n\n\u001b[1mCode: apiClient.ts\u001b[22m\n\u001b[0m \u001b[90m 35 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 36 |\u001b[39m   (error\u001b[33m:\u001b[39m any) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 37 |\u001b[39m     console\u001b[33m.\u001b[39merror(\u001b[32m\"❌ API Error:\"\u001b[39m\u001b[33m,\u001b[39m {\n \u001b[90m    |\u001b[39m                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 38 |\u001b[39m       message\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mmessage\u001b[33m,\u001b[39m\n \u001b[90m 39 |\u001b[39m       url\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mconfig\u001b[33m?\u001b[39m\u001b[33m.\u001b[39murl\u001b[33m,\u001b[39m\n \u001b[90m 40 |\u001b[39m       status\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mresponse\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mstatus\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  interceptors.response.use$argument_1 (api/handler/apiClient.ts:37:18)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789503538353,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503538402,"level":"error","data":["❌ API Error:","{\"data\": \"<!DOCTYPE html>\n<html lang=\\\"en\\\">\n<head>\n  <meta http-equiv=\\\"content-type\\\" content=\\\"text/html; charset=utf-8\\\">\n  <title>Page not found at /api/v1/api/v1/banner/</title>\n  <meta name=\\\"color-scheme\\\" content=\\\"light\\\" />\n  <meta name=\\\"robots\\\" content=\\\"NONE,NOARCHIVE\\\">\n  <style>\n    html * { padding:0; margin:0; }\n    body * { padding:10px 20px; }\n    body * * { padding:0; }\n    body { font-family: sans-serif; background:#eee; color:#000; }\n    body > header, body > main, body > footer { border-bottom:1px solid #ddd; }\n    h1 { font-weight:normal; margin-bottom:.4em; }\n    h1 small { font-size:60%; color:#666; font-weight:normal; }\n    table { border:none; border-collapse: collapse; width:100%; }\n    td, th { vertical-align:top; padding:2px 3px; }\n    th { width:12em; text-align:right; color:#666; padding-right:.5em; }\n    #info { background:#f6f6f6; }\n    #info ol { margin: 0.5em 4em; }\n    #info ol li { font-family: monospace; }\n    #summary { background: #ffc; }\n    #explanation { background:#eee; border-bottom: 0px none; }\n    pre.exception_value { font-family: sans-serif; color: #575757; font-size: 1.5em; margin: 10px 0 10px 0; }\n  </style>\n</head>\n<body>\n  <header id=\\\"summary\\\">\n    <h1>Page not found <small>(404)</small></h1>\n    \n    <table class=\\\"meta\\\">\n      <tr>\n        <th scope=\\\"row\\\">Request Method:</th>\n        <td>GET</td>\n      </tr>\n      <tr>\n        <th scope=\\\"row\\\">Request URL:</th>\n        <td>http://10.82.158.135:8000/api/v1/api/v1/banner/</td>\n      </tr>\n      \n    </table>\n  </header>\n\n  <main id=\\\"info\\\">\n    \n      <p>\n      Using the URLconf defined in <code>config.urls</code>,\n      Django tried these URL patterns, in this order:\n      </p>\n      <ol>\n        \n          <li>\n            \n              <code>\n                admin/\n                [namespace='admin']\n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/accounts/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/categories/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/products/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/brands/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/notifications/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/cart/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/address/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/orders/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/printing/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/food/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/banner/\n                \n              </code>\n            \n          </li>\n        \n      </ol>\n      <p>\n        \n          The current path, <code>api/v1/api/v1/banner/</code>,\n        \n        didn’t match any of these.\n      </p>\n    \n  </main>\n\n  <footer id=\\\"explanation\\\">\n    <p>\n      You’re seeing this error because you have <code>DEBUG = True</code> in\n      your Django settings file. Change that to <code>False</code>, and Django\n      will display a standard 404 page.\n    </p>\n  </footer>\n</body>\n</html>\n\", \"message\": \"Request failed with status code 404\", \"status\": 404, \"url\": \"/api/v1/banner/\"}","\n\n\u001b[1mCode: apiClient.ts\u001b[22m\n\u001b[0m \u001b[90m 35 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 36 |\u001b[39m   (error\u001b[33m:\u001b[39m any) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 37 |\u001b[39m     console\u001b[33m.\u001b[39merror(\u001b[32m\"❌ API Error:\"\u001b[39m\u001b[33m,\u001b[39m {\n \u001b[90m    |\u001b[39m                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 38 |\u001b[39m       message\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mmessage\u001b[33m,\u001b[39m\n \u001b[90m 39 |\u001b[39m       url\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mconfig\u001b[33m?\u001b[39m\u001b[33m.\u001b[39murl\u001b[33m,\u001b[39m\n \u001b[90m 40 |\u001b[39m       status\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mresponse\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mstatus\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  interceptors.response.use$argument_1 (api/handler/apiClient.ts:37:18)\u001b[39m"]}
+{"_e":"metro:bundling:started","_t":1789503558212,"id":"p","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789503558212,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789503558374,"id":"p","total":1,"ms":162.298166}
+{"_e":"metro:client_log","_t":1789503571762,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503572100,"level":"error","data":["❌ API Error:","{\"data\": \"<!DOCTYPE html>\n<html lang=\\\"en\\\">\n<head>\n  <meta http-equiv=\\\"content-type\\\" content=\\\"text/html; charset=utf-8\\\">\n  <title>Page not found at /api/v1/api/v1/banner/</title>\n  <meta name=\\\"color-scheme\\\" content=\\\"light\\\" />\n  <meta name=\\\"robots\\\" content=\\\"NONE,NOARCHIVE\\\">\n  <style>\n    html * { padding:0; margin:0; }\n    body * { padding:10px 20px; }\n    body * * { padding:0; }\n    body { font-family: sans-serif; background:#eee; color:#000; }\n    body > header, body > main, body > footer { border-bottom:1px solid #ddd; }\n    h1 { font-weight:normal; margin-bottom:.4em; }\n    h1 small { font-size:60%; color:#666; font-weight:normal; }\n    table { border:none; border-collapse: collapse; width:100%; }\n    td, th { vertical-align:top; padding:2px 3px; }\n    th { width:12em; text-align:right; color:#666; padding-right:.5em; }\n    #info { background:#f6f6f6; }\n    #info ol { margin: 0.5em 4em; }\n    #info ol li { font-family: monospace; }\n    #summary { background: #ffc; }\n    #explanation { background:#eee; border-bottom: 0px none; }\n    pre.exception_value { font-family: sans-serif; color: #575757; font-size: 1.5em; margin: 10px 0 10px 0; }\n  </style>\n</head>\n<body>\n  <header id=\\\"summary\\\">\n    <h1>Page not found <small>(404)</small></h1>\n    \n    <table class=\\\"meta\\\">\n      <tr>\n        <th scope=\\\"row\\\">Request Method:</th>\n        <td>GET</td>\n      </tr>\n      <tr>\n        <th scope=\\\"row\\\">Request URL:</th>\n        <td>http://10.82.158.135:8000/api/v1/api/v1/banner/</td>\n      </tr>\n      \n    </table>\n  </header>\n\n  <main id=\\\"info\\\">\n    \n      <p>\n      Using the URLconf defined in <code>config.urls</code>,\n      Django tried these URL patterns, in this order:\n      </p>\n      <ol>\n        \n          <li>\n            \n              <code>\n                admin/\n                [namespace='admin']\n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/accounts/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/categories/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/products/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/brands/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/notifications/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/cart/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/address/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/orders/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/printing/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/food/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/banner/\n                \n              </code>\n            \n          </li>\n        \n      </ol>\n      <p>\n        \n          The current path, <code>api/v1/api/v1/banner/</code>,\n        \n        didn’t match any of these.\n      </p>\n    \n  </main>\n\n  <footer id=\\\"explanation\\\">\n    <p>\n      You’re seeing this error because you have <code>DEBUG = True</code> in\n      your Django settings file. Change that to <code>False</code>, and Django\n      will display a standard 404 page.\n    </p>\n  </footer>\n</body>\n</html>\n\", \"message\": \"Request failed with status code 404\", \"status\": 404, \"url\": \"/api/v1/banner/\"}","\n\n\u001b[1mCode: apiClient.ts\u001b[22m\n\u001b[0m \u001b[90m 35 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 36 |\u001b[39m   (error\u001b[33m:\u001b[39m any) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 37 |\u001b[39m     console\u001b[33m.\u001b[39merror(\u001b[32m\"❌ API Error:\"\u001b[39m\u001b[33m,\u001b[39m {\n \u001b[90m    |\u001b[39m                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 38 |\u001b[39m       message\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mmessage\u001b[33m,\u001b[39m\n \u001b[90m 39 |\u001b[39m       url\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mconfig\u001b[33m?\u001b[39m\u001b[33m.\u001b[39murl\u001b[33m,\u001b[39m\n \u001b[90m 40 |\u001b[39m       status\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mresponse\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mstatus\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  interceptors.response.use$argument_1 (api/handler/apiClient.ts:37:18)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789503573219,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503573270,"level":"error","data":["❌ API Error:","{\"data\": \"<!DOCTYPE html>\n<html lang=\\\"en\\\">\n<head>\n  <meta http-equiv=\\\"content-type\\\" content=\\\"text/html; charset=utf-8\\\">\n  <title>Page not found at /api/v1/api/v1/banner/</title>\n  <meta name=\\\"color-scheme\\\" content=\\\"light\\\" />\n  <meta name=\\\"robots\\\" content=\\\"NONE,NOARCHIVE\\\">\n  <style>\n    html * { padding:0; margin:0; }\n    body * { padding:10px 20px; }\n    body * * { padding:0; }\n    body { font-family: sans-serif; background:#eee; color:#000; }\n    body > header, body > main, body > footer { border-bottom:1px solid #ddd; }\n    h1 { font-weight:normal; margin-bottom:.4em; }\n    h1 small { font-size:60%; color:#666; font-weight:normal; }\n    table { border:none; border-collapse: collapse; width:100%; }\n    td, th { vertical-align:top; padding:2px 3px; }\n    th { width:12em; text-align:right; color:#666; padding-right:.5em; }\n    #info { background:#f6f6f6; }\n    #info ol { margin: 0.5em 4em; }\n    #info ol li { font-family: monospace; }\n    #summary { background: #ffc; }\n    #explanation { background:#eee; border-bottom: 0px none; }\n    pre.exception_value { font-family: sans-serif; color: #575757; font-size: 1.5em; margin: 10px 0 10px 0; }\n  </style>\n</head>\n<body>\n  <header id=\\\"summary\\\">\n    <h1>Page not found <small>(404)</small></h1>\n    \n    <table class=\\\"meta\\\">\n      <tr>\n        <th scope=\\\"row\\\">Request Method:</th>\n        <td>GET</td>\n      </tr>\n      <tr>\n        <th scope=\\\"row\\\">Request URL:</th>\n        <td>http://10.82.158.135:8000/api/v1/api/v1/banner/</td>\n      </tr>\n      \n    </table>\n  </header>\n\n  <main id=\\\"info\\\">\n    \n      <p>\n      Using the URLconf defined in <code>config.urls</code>,\n      Django tried these URL patterns, in this order:\n      </p>\n      <ol>\n        \n          <li>\n            \n              <code>\n                admin/\n                [namespace='admin']\n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/accounts/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/categories/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/products/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/brands/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/notifications/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/cart/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/address/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/orders/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/printing/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/food/\n                \n              </code>\n            \n          </li>\n        \n          <li>\n            \n              <code>\n                api/v1/banner/\n                \n              </code>\n            \n          </li>\n        \n      </ol>\n      <p>\n        \n          The current path, <code>api/v1/api/v1/banner/</code>,\n        \n        didn’t match any of these.\n      </p>\n    \n  </main>\n\n  <footer id=\\\"explanation\\\">\n    <p>\n      You’re seeing this error because you have <code>DEBUG = True</code> in\n      your Django settings file. Change that to <code>False</code>, and Django\n      will display a standard 404 page.\n    </p>\n  </footer>\n</body>\n</html>\n\", \"message\": \"Request failed with status code 404\", \"status\": 404, \"url\": \"/api/v1/banner/\"}","\n\n\u001b[1mCode: apiClient.ts\u001b[22m\n\u001b[0m \u001b[90m 35 |\u001b[39m   }\u001b[33m,\u001b[39m\n \u001b[90m 36 |\u001b[39m   (error\u001b[33m:\u001b[39m any) \u001b[33m=>\u001b[39m {\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 37 |\u001b[39m     console\u001b[33m.\u001b[39merror(\u001b[32m\"❌ API Error:\"\u001b[39m\u001b[33m,\u001b[39m {\n \u001b[90m    |\u001b[39m                  \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\n \u001b[90m 38 |\u001b[39m       message\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mmessage\u001b[33m,\u001b[39m\n \u001b[90m 39 |\u001b[39m       url\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mconfig\u001b[33m?\u001b[39m\u001b[33m.\u001b[39murl\u001b[33m,\u001b[39m\n \u001b[90m 40 |\u001b[39m       status\u001b[33m:\u001b[39m error\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mresponse\u001b[33m?\u001b[39m\u001b[33m.\u001b[39mstatus\u001b[33m,\u001b[39m\u001b[0m\n\u001b[1mCall Stack\u001b[22m\n\u001b[90m  interceptors.response.use$argument_1 (api/handler/apiClient.ts:37:18)\u001b[39m"]}
+{"_e":"metro:client_log","_t":1789503637041,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/\"}"]}
+{"_e":"metro:client_log","_t":1789503637132,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789503637387,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789503637415,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/\"}"]}
+{"_e":"metro:bundling:started","_t":1789503644252,"id":"t","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789503644252,"id":"t","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789503644356,"id":"t","total":1,"ms":104.272958}
+{"_e":"metro:client_log","_t":1789503653970,"level":"error","data":["Can't perform a React state update on a component that hasn't mounted yet. This indicates that you have a side-effect in your render function that asynchronously tries to update the component. Move this work to useEffect instead.","\n\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  NamelessError (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:105)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  captureCurrentStack (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:110:27)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  HMRClient.log (node_modules/@expo/metro-runtime/src/metroServerLogs.native.ts:42:79)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  console.level (node_modules/react-native/Libraries/Core/setUpDeveloperTools.js:41:24)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV$argument_1 (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15178:26)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  run (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  runWithFiberInDEV (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:697:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  warnAboutUpdateOnNotYetMountedFiberInDEV (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:15177:28)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  getRootForUpdatedFiber (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:5123:51)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  enqueueConcurrentHookUpdate (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:5067:36)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  dispatchSetStateInternal (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:6991:45)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  dispatchSetState (node_modules/react-native/Libraries/Renderer/implementations/ReactFabric-dev.js:6951:31)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  url.then$argument_0 (node_modules/expo-router/build/fork/useLinking.native.js:127:47)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  tryCallOne (address at (InternalBytecode.js:1:1296)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  anonymous (address at (InternalBytecode.js:1:4984)\u001b[39m\u001b[22m","\n\n\u001b[1mCode: ExpoRoot.js\u001b[22m\n\u001b[2m(\u001b[22m\u001b[0m/Users/KanhnuPolai/ClientProjects/Project_0001/LocalBasketReactNative/node_modules/expo-router/build/ExpoRoot.js\u001b[0m\u001b[2m:135:120)\u001b[22m\n\n\u001b[2m...\u001b[22m }\n\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 135 |\u001b[39m     \u001b[36mreturn\u001b[39m ((\u001b[35m0\u001b[39m\u001b[33m,\u001b[39m jsx_runtime_1\u001b[33m.\u001b[39mjsx)(storeContext_1\u001b[33m\u001b[2m...\u001b[22m\n                                                                     \u001b[0m^\u001b[0m\n\u001b[2m(error truncated)\u001b[22m\n\u001b[1mCall Stack\u001b[22m\n\u001b[2m\u001b[90m  ContextNavigator (node_modules/expo-router/build/ExpoRoot.js:135:121)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  ExpoRoot (node_modules/expo-router/build/ExpoRoot.js:85:33)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  App (node_modules/expo-router/build/qualified-entry.js:20:91)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  call (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  apply (<native>)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  <anonymous> (node_modules/react-native-css-interop/dist/runtime/wrap-jsx.js:20:24)\u001b[39m\u001b[22m\n\u001b[2m\u001b[90m  WithDevTools (node_modules/expo/src/launch/withDevTools.tsx:21:12)\u001b[39m\u001b[22m"]}
+{"_e":"metro:client_log","_t":1789503657281,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503657578,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503782697,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/products/\"}"]}
+{"_e":"metro:client_log","_t":1789503782761,"level":"log","data":["➡️ Authenticated API Request:","{\"hasAuth\": true, \"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789503782889,"level":"log","data":["✅ Authenticated API Response:","{\"status\": 200, \"url\": \"/cart/\"}"]}
+{"_e":"metro:client_log","_t":1789503783063,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/products/\"}"]}
+{"_e":"metro:bundling:started","_t":1789503786648,"id":"y","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789503786649,"id":"y","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789503786759,"id":"y","total":1,"ms":110.371666}
+{"_e":"metro:client_log","_t":1789503799779,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789503800091,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/banner/\"}"]}
+{"_e":"metro:bundling:failed","_t":1789503855502,"id":null,"message":"Unable to resolve \"../hooks/useBanners\" from \"components/index/HeroSlider.tsx\"\n  11 |   View,\n  12 | } from \"react-native\";\n> 13 | import { useBanners } from \"../hooks/useBanners\";\n     |                             ^\n  14 | import { Banner } from \"@/types/bannerType\";\n  15 |\n  16 | const { width: SCREEN_WIDTH } = Dimensions.get(\"window\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/HeroSlider.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useBanners\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/HeroSlider\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useBanners","originModulePath":"components/index/HeroSlider.tsx"}
+{"_e":"metro:bundling:failed","_t":1789503855747,"id":null,"message":"Unable to resolve \"../hooks/useBanners\" from \"components/index/HeroSlider.tsx\"\n  11 |   View,\n  12 | } from \"react-native\";\n> 13 | import { useBanners } from \"../hooks/useBanners\";\n     |                             ^\n  14 | import { Banner } from \"@/types/bannerType\";\n  15 |\n  16 | const { width: SCREEN_WIDTH } = Dimensions.get(\"window\");","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mcomponents/index/HeroSlider.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../hooks/useBanners\"\u001b[39m\n\n\u001b[90m \u001b[39mapp/(tabs)/index.tsx\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"@/components/index/HeroSlider\"\u001b[39m\n\n\u001b[90m \u001b[39mapp\u001b[2m (require.context)\u001b[22m\n","filename":null,"targetModuleName":"../hooks/useBanners","originModulePath":"components/index/HeroSlider.tsx"}
+{"_e":"metro:bundling:started","_t":1789504297017,"id":"10","platform":"android","environment":null,"entry":"node_modules/expo-router/entry.js"}
+{"_e":"metro:bundling:progress","_t":1789504297018,"id":"10","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1789504297138,"id":"10","total":1,"ms":120.48525}
+{"_e":"metro:client_log","_t":1789504310330,"level":"log","data":["➡️ API Request:","{\"method\": \"get\", \"url\": \"http://10.82.158.135:8000/api/v1/banner/\"}"]}
+{"_e":"metro:client_log","_t":1789504310910,"level":"log","data":["✅ API Response:","{\"status\": 200, \"url\": \"/banner/\"}"]}
+{"_e":"metro:server_log","_t":1789505063024,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","22087RA4DI - 13 - API 33","60"]}
+{"_e":"metro:server_log","_t":1789505063042,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","22087RA4DI - 13 - API 33","60"]}
+{"_e":"metro:server_log","_t":1789505063043,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","22087RA4DI - 13 - API 33","60"]}
+{"_e":"metro:server_log","_t":1789505063044,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","22087RA4DI - 13 - API 33","60"]}
+{"_e":"metro:server_log","_t":1789505063044,"level":"error","data":["[timeout] connection terminated with Device for app='%s' on device='%s' after not responding for %s seconds.","host.exp.exponent","22087RA4DI - 13 - API 33","60"]}
